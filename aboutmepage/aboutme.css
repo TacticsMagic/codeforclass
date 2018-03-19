@@ -1,0 +1,101 @@
+.navbar {
+    background-color: rgb(42,60,96);
+    text-align: center;
+    border: 5px solid grey;
+    border-radius: 15px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+}
+
+.navbar a {
+    display: inline-block;
+    color: black;
+    border: 10px white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+    background-color: rgb(204,229,255);
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar a:hover {
+    background-color: orange;
+    color: white;
+}
+
+body {
+    text-align: center;
+    font-size: 25px;
+    background-color: #B0C4DE;
+}
+
+ul {
+    text-align: center;
+    font-size: 50px;
+}
+
+.line {
+    display: inline-block;
+    width: 49%;
+    border: 3px solid gray;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.navex {
+    background-color: rgb(42,60,96);
+    text-align: center;
+    border: 5px solid grey;
+    border-radius: 15px;
+}
+
+.navex a {
+    display: inline-block;
+    color: black;
+    border: 10px white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+    background-color: rgb(204,229,255);
+}
+
+.navex li {
+    list-style: none;
+}
+
+.navex a:hover {
+    background-color: orange;
+    color: white;
+}
+
+a:link {
+    text-decoration: none
+    color: black;
+    
+}
+
+a:visited {
+    color: black;
+    text-decoration: none
+}
+
+p {
+    border: 3px solid gray;
+    font-size: 35px;
+    color: black;
+}
+
+.p5 {
+    border: none;
+}
+
+.persona {
+    border: 5px dotted black;
+}

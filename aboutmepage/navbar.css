@@ -1,0 +1,23 @@
+.navbar {
+     background-color: blue;
+     text-align: center;
+}
+
+.navbar a {
+    display: inline-block;
+    color: white;
+    border:5px solid black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 23 px;
+    background-color: orange;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar a:hover{
+    background-color: black;
+}
